@@ -52,7 +52,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ## AR/VR/360
 
 - [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos, photos, live photos, and GIFs.
-- [kaleidoscope](https://github.com/thiagopnts/kaleidoscope) - An embeddable, lightweight 360º video/image viewer.
+- [kaleidoscope](https://github.com/thiagopnts/kaleidoscope) - An embeddable, lightweight 360Âº video/image viewer.
 
 ## Captions and Subtitles
 
@@ -142,7 +142,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ### iOS Swift
 
 - [FFmpeg-iOS-build](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS.
-- [PBJVision](https://github.com/piemonte/PBJVision) - iOS Media Capture – features touch-to-record video, slow motion, and photography.
+- [PBJVision](https://github.com/piemonte/PBJVision) - iOS Media Capture â features touch-to-record video, slow motion, and photography.
 
 ### Javascript
 
@@ -266,3 +266,6 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) - Screen recorder for Linux with video encoding support.
 - [v4l-utils](https://linuxtv.org/wiki/index.php/V4l-utils) - Collection of command line utilities for Video4Linux devices.
 - [v4l2loopback](https://github.com/umlaeute/v4l2loopback) - Virtual video loopback device for Linux, allowing video streaming between applications.
+
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly and FFmpeg.wasm. No uploads, no sign-up, no watermarks. Batch up to 20 clips.
